@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Mi primer repositorio en GitHub
+# mi-segundo-repositorio
+Mi segundo repositorio en GitHub
